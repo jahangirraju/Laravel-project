@@ -1,0 +1,14 @@
+.margin-top 
+{
+    margin-top: 12px;
+}
+
+.product-image {
+    max-width: 200px;
+}
+
+.footer-bottom {
+    margin-top: 30px;
+    background: rgb(91, 91, 79);
+    padding: 20px;
+}
